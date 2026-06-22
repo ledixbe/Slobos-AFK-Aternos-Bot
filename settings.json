@@ -29,11 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 20,
+      "repeat-delay": 50,
       "messages": [
-        "man oddiy botman",
         "@ledixbeek youtube kanaliga obuna bo'ling!",
-        "Negr bo'lmasamham PROman botlar.",
         "Bu serverga odam olib kiring va RANK yutib oling."
       ]
     },
