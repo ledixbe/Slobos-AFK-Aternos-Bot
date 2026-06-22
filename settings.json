@@ -29,11 +29,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 20,
       "messages": [
         "man oddiy botman",
         "@ledixbeek youtube kanaliga obuna bo'ling!",
-        "Negr bo'lsamham proman borlar."
+        "Negr bo'lsamham PROman borlar.",
+        "Bu serverga odam olib kiring va rank yutib oling."
       ]
     },
     "chat-log": true,
